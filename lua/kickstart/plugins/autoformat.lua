@@ -72,3 +72,5 @@ return {
     })
   end,
 }
+
+vim.cmd.colorscheme("colorbuddy")
